@@ -334,21 +334,6 @@ rm ~/.queuectl/data/jobs.db
 3. **No job priorities**: All jobs are processed FIFO. Priority queues could be added as an enhancement.
 4. **No job scheduling**: Jobs execute immediately. Scheduled/delayed jobs could be added as a bonus feature.
 
-## 🚀 Future Enhancements (Bonus Features)
-
-Potential improvements:
-
-- [ ] Job timeout handling (configurable per job)
-- [ ] Job priority queues
-- [ ] Scheduled/delayed jobs (`run_at` field)
-- [ ] Job output logging
-- [ ] Metrics and execution statistics
-- [ ] Web dashboard for monitoring
-- [ ] Flask API for programmatic access
-
-
-
-
 
 ## ✅ Checklist
 
