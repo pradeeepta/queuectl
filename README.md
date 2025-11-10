@@ -346,19 +346,9 @@ Potential improvements:
 - [ ] Web dashboard for monitoring
 - [ ] Flask API for programmatic access
 
-## 📝 License
 
-This project is part of a backend developer internship assignment.
 
-## 👤 Author
 
-Developed as part of QueueCTL Backend Developer Internship Assignment.
-
----
-
-## 📸 Demo
-
-For a working CLI demo, please refer to the demo video link (to be added).
 
 ## ✅ Checklist
 
